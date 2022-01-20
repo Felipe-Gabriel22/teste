@@ -4,14 +4,14 @@ font-size: 16;
 
 
 body {
-    background-color: rgb(129, 62, 190);
+    background-color: rgb(146, 93, 196);
 }
 
 
 main {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 3px 3px 5px rgba(21, 36, 168, 0.897);
 }
